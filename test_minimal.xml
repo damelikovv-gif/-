@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-29T19:30:00+03:00">
+  <shop>
+    <name>KM STUDIO</name>
+    <company>KM STUDIO</company>
+    <url>https://krismass.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Массаж</category>
+    </categories>
+    <offers>
+      <offer id="1000" available="true">
+        <url>https://krismass.ru/</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Общий расслабляющий массаж</name>
+        <description>Массаж тела 60 минут</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
