@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-29T20:00:00+03:00">
+  <shop>
+    <name>KM STUDIO</name>
+    <company>KM STUDIO</company>
+    <url>https://krismass.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Массаж</category>
+    </categories>
+    <offers>
+      <offer id="1000" available="true">
+        <url>https://krismass.ru/</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+        <name>Общий расслабляющий массаж</name>
+        <description>Глубокое расслабление и лёгкость. Полный SPA-формат отдыха. Длительность 60 минут.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

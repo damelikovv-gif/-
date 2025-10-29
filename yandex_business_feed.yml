@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-29 12:00">
+  <shop>
+    <name>KM STUDIO</name>
+    <company>KM STUDIO — сеть студий массажа</company>
+    <url>https://krismass.ru/</url>
+    <phone>+7 (XXX) XXX-XX-XX</phone>
+    <email>info@krismass.ru</email>
+    
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    
+    <categories>
+      <category id="1">Массажи</category>
+      <category id="2" parentId="1">Расслабляющие массажи</category>
+      <category id="3" parentId="1">Лечебные массажи</category>
+      <category id="4" parentId="1">Косметические массажи</category>
+    </categories>
+    
+    <offers>
+      <!-- Предложения для филиала на Юности 2 -->
+      <offer id="1000" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=relax_total</url>
+        <price>2000</price>
+        <oldprice>2500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://krismass.ru/images/services/relax-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Общий расслабляющий массаж тела — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>RELAX-Y-001</vendorCode>
+        <description>Глубокое расслабление и лёгкость. Полный SPA‑формат отдыха. Длительность: 60 минут. Идеально подходит для снятия стресса и восстановления после рабочей недели.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Расслабляющий</param>
+      </offer>
+      
+      <offer id="1001" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=classic</url>
+        <price>2200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://krismass.ru/images/services/classic-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Классический массаж тела — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>CLASSIC-Y-001</vendorCode>
+        <description>Классическая проработка мышц. Тонус и комфорт без боли. Длительность: 60 минут. Улучшает кровообращение и снимает мышечное напряжение.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Лечебный</param>
+      </offer>
+      
+      <offer id="1002" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=fullbody</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://krismass.ru/images/services/fullbody-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Массаж всего тела (глубокий релакс) — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>FULLBODY-Y-001</vendorCode>
+        <description>90 минут перезагрузки. Уют, тепло и гармония для тела. Комплексная проработка всех зон с использованием ароматических масел.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">90 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Расслабляющий</param>
+      </offer>
+      
+      <offer id="1003" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=back</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://krismass.ru/images/services/back-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Массаж спины и шеи — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>BACK-Y-001</vendorCode>
+        <description>Снимает усталость и напряжение. Комфорт и забота. Длительность: 45 минут. Особенно эффективен при сидячей работе.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">45 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Лечебный</param>
+        <param name="Зона воздействия">Спина и шея</param>
+      </offer>
+      
+      <offer id="1004" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=model</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/model-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Моделирующий массаж тела — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>MODEL-Y-001</vendorCode>
+        <description>Комплекс: антицеллюлитный, лимфодренажный, медовый, солевой. Длительность: 60 минут. Помогает улучшить контуры тела и состояние кожи.</description>
+        <sales_notes>Рекомендуется курс из 10 процедур</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Моделирование фигуры</param>
+      </offer>
+      
+      <offer id="1005" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=anti</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/anti-cellulite.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Антицеллюлитный массаж — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>ANTI-Y-001</vendorCode>
+        <description>Ровная, гладкая кожа. Работаем с отёками и неровностями. Длительность: 60 минут. Интенсивная техника для борьбы с целлюлитом.</description>
+        <sales_notes>Рекомендуется курс из 10-15 процедур</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Антицеллюлитный</param>
+      </offer>
+      
+      <offer id="1006" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=lymph</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/lymph-drainage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Лимфодренажный массаж — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>LYMPH-Y-001</vendorCode>
+        <description>Лёгкость и стройность. Улучшает отток жидкости и тонус. Длительность: 60 минут. Мягкая техника для выведения лишней жидкости.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Лимфодренаж</param>
+      </offer>
+      
+      <offer id="1007" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=honey</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/honey-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Медовый массаж — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>HONEY-Y-001</vendorCode>
+        <description>Натуральный уход: детокс и питание кожи, чувство лёгкости. Длительность: 60 минут. Используется натуральный мёд для глубокого очищения.</description>
+        <sales_notes>Убедитесь в отсутствии аллергии на мёд</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Особенность">С натуральным мёдом</param>
+      </offer>
+      
+      <offer id="1008" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=salt</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/salt-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Солевой массаж — Юности 2</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>SALT-Y-001</vendorCode>
+        <description>Очищение и упругость кожи. Эстетическая SPA‑процедура. Длительность: 60 минут. Морская соль для пилинга и тонизирования.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Юности 2</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Особенность">С морской солью</param>
+      </offer>
+      
+      <!-- Предложения для филиала на Весенней -->
+      <offer id="1009" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=relax_total</url>
+        <price>1800</price>
+        <oldprice>2200</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://krismass.ru/images/services/relax-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Общий расслабляющий массаж тела — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>RELAX-V-001</vendorCode>
+        <description>Расслабьтесь после рабочего дня. Массаж всего тела в уюте. Длительность: 60 минут. Идеально для восстановления сил.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Расслабляющий</param>
+      </offer>
+      
+      <offer id="1010" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=classic</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://krismass.ru/images/services/classic-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Классический массаж тела — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>CLASSIC-V-001</vendorCode>
+        <description>Классика ухода: снимаем зажимы и усталость. Тонус и энергия. Длительность: 60 минут. Проверенная временем техника.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Лечебный</param>
+      </offer>
+      
+      <offer id="1011" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=fullbody</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://krismass.ru/images/services/fullbody-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Массаж всего тела (глубокий релакс) — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>FULLBODY-V-001</vendorCode>
+        <description>Полный массаж от головы до пят. Тепло, комфорт, восстановление. Длительность: 90 минут. Максимальное расслабление всех мышечных групп.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">90 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Расслабляющий</param>
+      </offer>
+      
+      <offer id="1012" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=back</url>
+        <price>1800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://krismass.ru/images/services/back-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Массаж спины и шеи — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>BACK-V-001</vendorCode>
+        <description>Снимаем напряжение и усталость. Рядом с домом, без ожидания. Длительность: 45 минут. Быстрая помощь при болях в спине.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">45 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Лечебный</param>
+        <param name="Зона воздействия">Спина и шея</param>
+      </offer>
+      
+      <offer id="1013" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=model</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/model-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Моделирующий массаж тела — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>MODEL-V-001</vendorCode>
+        <description>Комплекс для фигуры и тонуса. Комфорт и видимый эффект. Длительность: 60 минут. Улучшение контуров тела и качества кожи.</description>
+        <sales_notes>Рекомендуется курс из 10 процедур</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Моделирование фигуры</param>
+      </offer>
+      
+      <offer id="1014" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=anti</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/anti-cellulite.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Антицеллюлитный массаж — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>ANTI-V-001</vendorCode>
+        <description>Борьба с отёками и неровностями. Гладкость кожи без боли. Длительность: 60 минут. Эффективная программа против целлюлита.</description>
+        <sales_notes>Рекомендуется курс из 10-15 процедур</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Антицеллюлитный</param>
+      </offer>
+      
+      <offer id="1015" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=lymph</url>
+        <price>2300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/lymph-drainage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Лимфодренажный массаж — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>LYMPH-V-001</vendorCode>
+        <description>Мягкое очищение и лёгкость. Помогает снять отёки и тяжесть. Длительность: 60 минут. Деликатная техника для оттока лимфы.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Эффект">Лимфодренаж</param>
+      </offer>
+      
+      <offer id="1016" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=honey</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/honey-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Медовый массаж — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>HONEY-V-001</vendorCode>
+        <description>Сладкий уход и восстановление. Натуральный детокс кожи. Длительность: 60 минут. Процедура с использованием натурального мёда.</description>
+        <sales_notes>Убедитесь в отсутствии аллергии на мёд</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Особенность">С натуральным мёдом</param>
+      </offer>
+      
+      <offer id="1017" type="service" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=salt</url>
+        <price>2300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://krismass.ru/images/services/salt-massage.jpg</picture>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <store>true</store>
+        <name>Солевой массаж — Весенняя</name>
+        <vendor>KM STUDIO</vendor>
+        <vendorCode>SALT-V-001</vendorCode>
+        <description>Морская свежесть и упругость. Гладкая кожа и энергия тела. Длительность: 60 минут. Пилинг и массаж морской солью.</description>
+        <sales_notes>Предварительная запись обязательна</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Длительность">60 минут</param>
+        <param name="Филиал">Весенняя</param>
+        <param name="Тип массажа">Косметический</param>
+        <param name="Особенность">С морской солью</param>
+      </offer>
+      
+    </offers>
+  </shop>
+</yml_catalog>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offers>
+  <offer>
+    <id>1000</id>
+    <name>Общий расслабляющий массаж тела — Юности 2</name>
+    <price>2000</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Глубокое расслабление и лёгкость. Полный SPA-формат отдыха. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1001</id>
+    <name>Классический массаж тела — Юности 2</name>
+    <price>2200</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Классическая проработка мышц. Тонус и комфорт без боли. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1002</id>
+    <name>Массаж всего тела (глубокий релакс) — Юности 2</name>
+    <price>2800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>90 минут перезагрузки. Уют, тепло и гармония для тела.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1003</id>
+    <name>Массаж спины и шеи — Юности 2</name>
+    <price>2000</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Снимает усталость и напряжение. Комфорт и забота. Длительность 45 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1004</id>
+    <name>Моделирующий массаж тела — Юности 2</name>
+    <price>2800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Комплекс: антицеллюлитный, лимфодренажный, медовый, солевой. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1005</id>
+    <name>Антицеллюлитный массаж — Юности 2</name>
+    <price>2800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Ровная, гладкая кожа. Работаем с отёками и неровностями. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1006</id>
+    <name>Лимфодренажный массаж — Юности 2</name>
+    <price>2500</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Лёгкость и стройность. Улучшает отток жидкости и тонус. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1007</id>
+    <name>Медовый массаж — Юности 2</name>
+    <price>2800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Натуральный уход: детокс и питание кожи, чувство лёгкости. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1008</id>
+    <name>Солевой массаж — Юности 2</name>
+    <price>2500</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Очищение и упругость кожи. Эстетическая SPA-процедура. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1009</id>
+    <name>Общий расслабляющий массаж тела — Весенняя</name>
+    <price>1800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Расслабьтесь после рабочего дня. Массаж всего тела в уюте. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1010</id>
+    <name>Классический массаж тела — Весенняя</name>
+    <price>2000</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Классика ухода: снимаем зажимы и усталость. Тонус и энергия. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1011</id>
+    <name>Массаж всего тела (глубокий релакс) — Весенняя</name>
+    <price>2500</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Полный массаж от головы до пят. Тепло, комфорт, восстановление. Длительность 90 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1012</id>
+    <name>Массаж спины и шеи — Весенняя</name>
+    <price>1800</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Снимаем напряжение и усталость. Рядом с домом, без ожидания. Длительность 45 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1013</id>
+    <name>Моделирующий массаж тела — Весенняя</name>
+    <price>2600</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Комплекс для фигуры и тонуса. Комфорт и видимый эффект. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1014</id>
+    <name>Антицеллюлитный массаж — Весенняя</name>
+    <price>2600</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Борьба с отёками и неровностями. Гладкость кожи без боли. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1015</id>
+    <name>Лимфодренажный массаж — Весенняя</name>
+    <price>2300</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Мягкое очищение и лёгкость. Помогает снять отёки и тяжесть. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1016</id>
+    <name>Медовый массаж — Весенняя</name>
+    <price>2600</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Сладкий уход и восстановление. Натуральный детокс кожи. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+  <offer>
+    <id>1017</id>
+    <name>Солевой массаж — Весенняя</name>
+    <price>2300</price>
+    <price_currency>RUB</price_currency>
+    <url>https://krismass.ru/</url>
+    <picture>https://static.tildacdn.com/tild3139-3731-4263-b265-343333383837/massage-spa-relaxatio.jpg</picture>
+    <description>Морская свежесть и упругость. Гладкая кожа и энергия тела. Длительность 60 минут.</description>
+    <category>Массаж</category>
+    <available>true</available>
+  </offer>
+</offers>
