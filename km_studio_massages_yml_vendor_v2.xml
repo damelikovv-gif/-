@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-10-29 09:02">
+  <shop>
+    <name>KM STUDIO</name>
+    <company>KM STUDIO — сеть студий массажа</company>
+    <url>https://krismass.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Массажи</category>
+    </categories>
+    <offers>
+      <offer id="1000" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=relax_total</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Общий расслабляющий массаж тела — Юности 2</name>
+        <description>Глубокое расслабление и лёгкость. Полный SPA‑формат отдыха.</description>
+      </offer>
+      <offer id="1001" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=classic</url>
+        <price>2200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Классический массаж тела — Юности 2</name>
+        <description>Классическая проработка мышц. Тонус и комфорт без боли.</description>
+      </offer>
+      <offer id="1002" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=fullbody</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Массаж всего тела (глубокий релакс) — Юности 2</name>
+        <description>90 минут перезагрузки. Уют, тепло и гармония для тела.</description>
+      </offer>
+      <offer id="1003" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=back</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Массаж спины и шеи — Юности 2</name>
+        <description>Снимает усталость и напряжение. Комфорт и забота.</description>
+      </offer>
+      <offer id="1004" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=model</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Моделирующий массаж тела — Юности 2</name>
+        <description>Комплекс: антицеллюлитный, лимфодренажный, медовый, солевой.</description>
+      </offer>
+      <offer id="1005" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=anti</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Антицеллюлитный массаж — Юности 2</name>
+        <description>Ровная, гладкая кожа. Работаем с отёками и неровностями.</description>
+      </offer>
+      <offer id="1006" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=lymph</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Лимфодренажный массаж — Юности 2</name>
+        <description>Лёгкость и стройность. Улучшает отток жидкости и тонус.</description>
+      </offer>
+      <offer id="1007" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=honey</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Медовый массаж — Юности 2</name>
+        <description>Натуральный уход: детокс и питание кожи, чувство лёгкости.</description>
+      </offer>
+      <offer id="1008" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=yunost&amp;utm_service=salt</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Солевой массаж — Юности 2</name>
+        <description>Очищение и упругость кожи. Эстетическая SPA‑процедура.</description>
+      </offer>
+      <offer id="1009" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=relax_total</url>
+        <price>1800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Общий расслабляющий массаж тела — Весенняя</name>
+        <description>Расслабьтесь после рабочего дня. Массаж всего тела в уюте.</description>
+      </offer>
+      <offer id="1010" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=classic</url>
+        <price>2000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Классический массаж тела — Весенняя</name>
+        <description>Классика ухода: снимаем зажимы и усталость. Тонус и энергия.</description>
+      </offer>
+      <offer id="1011" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=fullbody</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Массаж всего тела (глубокий релакс) — Весенняя</name>
+        <description>Полный массаж от головы до пят. Тепло, комфорт, восстановление.</description>
+      </offer>
+      <offer id="1012" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=back</url>
+        <price>1800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Массаж спины и шеи — Весенняя</name>
+        <description>Снимаем напряжение и усталость. Рядом с домом, без ожидания.</description>
+      </offer>
+      <offer id="1013" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=model</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Моделирующий массаж тела — Весенняя</name>
+        <description>Комплекс для фигуры и тонуса. Комфорт и видимый эффект.</description>
+      </offer>
+      <offer id="1014" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=anti</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Антицеллюлитный массаж — Весенняя</name>
+        <description>Борьба с отёками и неровностями. Гладкость кожи без боли.</description>
+      </offer>
+      <offer id="1015" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=lymph</url>
+        <price>2300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Лимфодренажный массаж — Весенняя</name>
+        <description>Мягкое очищение и лёгкость. Помогает снять отёки и тяжесть.</description>
+      </offer>
+      <offer id="1016" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=honey</url>
+        <price>2600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Медовый массаж — Весенняя</name>
+        <description>Сладкий уход и восстановление. Натуральный детокс кожи.</description>
+      </offer>
+      <offer id="1017" available="true">
+        <url>https://krismass.ru/#services?utm_source=yandex_business&amp;utm_medium=import&amp;utm_campaign=products&amp;utm_branch=vesennyaya&amp;utm_service=salt</url>
+        <price>2300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>KM STUDIO</vendor>
+        <name>Солевой массаж — Весенняя</name>
+        <description>Морская свежесть и упругость. Гладкая кожа и энергия тела.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
